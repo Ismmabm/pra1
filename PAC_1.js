@@ -173,7 +173,7 @@ class FilmList{
     }
 }
 
-
+//Codigo para probar
 
 let pelicula1= new Film(1001,"Titanic","Esto es un resumen aburrido",87,"enlace","1997-12-19",35,50,[5,3,7,10]);
 let pelicula2= new Film(1002,"Terminator","Esto es un resumen aburrido",99,"enlace","1984-10-26",60,50,[5,3,7,10]);
